@@ -148,6 +148,8 @@ while True:
         if count % 50 == 0:
           time.sleep(1)
           clear()
+
+
           
           
           
